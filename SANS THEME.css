@@ -1,0 +1,30 @@
+@import url("https://codedotspectra.github.io/themes/themes-cores/neutron8.css");
+@import url('https://discordstyles.github.io/RadialStatus/dist/RadialStatus.css');
+:root {
+--themeColor1: #FFFFFFFF;
+--themeColor2: #5B86E5;
+--customFont: 'Determination Mono';
+--homeImage: url('https://i.imgur.com/WP3dwPs.png');
+--homeImageSize: cover;
+--backgroundColor: #0d0d0d;
+--backgroundImage: url('https://i.imgur.com/j1ZsEVk.jpg');
+--backgroundPosition: center;
+--backgroundSize: contain;
+--backgroundRepeat: repeat;
+--backgroundBlur: 3px;
+--backgroundOpacity: 0.8;
+--rs-small-spacing: 0px;
+--rs-medium-spacing: 0px;
+--rs-large-spacing: 0px;
+--rs-small-width: 3px;
+--rs-medium-width: 3px;
+--rs-large-width: 1px;
+--rs-avatar-shape: 20%;
+--rs-online-color: #2EB50FFF;
+--rs-idle-color: #faa61a;
+--rs-dnd-color: #f04747;
+--rs-offline-color: #636b75;
+--rs-streaming-color: #643da7;
+--rs-invisible-color: #747f8d;
+--rs-phone-visible: block;
+}
